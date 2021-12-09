@@ -4,10 +4,10 @@ body {
 .header {
     width: 100%;
     height: 120vh;
-    background: url("../img/back.jpg") no-repeat;
+    background: url("../img/macbook-air-og-202011.jpg") no-repeat;
     background-size: cover;
     background-position-x: center;
-    background-position-y: -100px;
+    /* background-position-y: -100px; */
 }
 .logo a img {
     width: 60%;
